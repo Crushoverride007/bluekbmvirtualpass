@@ -135,7 +135,7 @@ To start of the installation, you need first to run this command:
 
 </br>
 
-[![Api part 3][api_google-maps-p3]](https://github.com/crushoverride007/bluekbmvirtualpass)
+<img src="Readmeimages/api_key-in-env.PNG" alt="api_lastpart" width="250" height="250">
 
 
 
