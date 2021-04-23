@@ -191,6 +191,4 @@ Project Link: [github.com/Crushoverride007/bluekbmvirtualpass](https://github.co
 
 
 [product-screenshot]: Readmeimages/screenshot.PNG
-[qr-code]: Readmeimages/qrcode_generating.PNG
-[environments-setup]: Readmeimages/environments_setup.PNG
 
