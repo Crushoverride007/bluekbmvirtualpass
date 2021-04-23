@@ -167,6 +167,8 @@ To start of the installation, you need first to run this command:
    ```
    php artisan migrate
    ```
+[![Migration][Artisan-migrate]](https://github.com/crushoverride007/bluekbmvirtualpass)
+
 9. Since we've a pre-existing data, you could also retrieve those data
    ```
    php artisan db:seed
@@ -226,3 +228,5 @@ Project Link: [github.com/Crushoverride007/bluekbmvirtualpass](https://github.co
 [key_generatep2]: Readmeimages/key_generate-part2.PNG
 [Database_part1]: Readmeimages/dbpart1.png
 [Database_part2]: Readmeimages/dbpart2.png
+[Artisan-migrate]: Readmeimages/php_artisan_migrate.PNG
+
