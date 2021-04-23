@@ -171,9 +171,9 @@ _This optional quest isn't necessary but we managed to pull it through [Document
 
 ## Contact
 
-Mouhcine MESMOUKI - [@m_mesmouki](https://twitter.com/m_mesmouki) - mouhcine.mesmouki7@gmail.com
-Ayman BENNANI - [@ayman_bennani](https://www.instagram.com/aymanbennani/) - ayman.bennani@ynov.com
-Mouad KECHAMNE - [@mouadkechmane](https://www.instagram.com/mouadkechmane/) mouad.kechmane@ynov.com
+* Mouhcine MESMOUKI - [@m_mesmouki](https://twitter.com/m_mesmouki) - mouhcine.mesmouki7@gmail.com
+* Ayman BENNANI - [@ayman_bennani](https://www.instagram.com/aymanbennani/) - ayman.bennani@ynov.com
+* Mouad KECHAMNE - [@mouadkechmane](https://www.instagram.com/mouadkechmane/) mouad.kechmane@ynov.com
 
 Project Link: [github.com/Crushoverride007/bluekbmvirtualpass](https://github.com/Crushoverride007/bluekbmvirtualpass)
 
