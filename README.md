@@ -143,10 +143,24 @@ To start of the installation, you need first to run this command:
    ```
    php artisan key:generate
    ```
+
+[![Key part1][key_generatep1]](https://github.com/crushoverride007/bluekbmvirtualpass)
+
+</br>
+
+[![Key part2][key_generatep2]](https://github.com/crushoverride007/bluekbmvirtualpass)
+
 7. Create a database in phpmyadmin and make sure to name it the same as shown in `.env`
    ```
    DB_DATABASE = virtualpassbluekbm
    ```
+
+[![Database part 1][creation_ofdb1]](https://github.com/crushoverride007/bluekbmvirtualpass)
+
+</br>
+
+[![Database part 2][creation_ofdb2]](https://github.com/crushoverride007/bluekbmvirtualpass)
+
 8. Push the tables into your database
    ```
    php artisan migrate
@@ -206,4 +220,7 @@ Project Link: [github.com/Crushoverride007/bluekbmvirtualpass](https://github.co
 [api_google-maps-p1]: Readmeimages/apiformaps.PNG
 [api_google-maps-p2]: Readmeimages/api_google_maps_generate.PNG
 [api_google-maps-p3]: Readmeimages/api_key-in-env.PNG
-
+[key_generatep1]: Readmeimages/keygeneratep1.PNG
+[key_generatep2]: Readmeimages/keygenerate-part2.PNG
+[creation_ofdb1]: Readmeimages/creation_ofdbp1.PNG
+[creation_ofdb2]: Readmeimages/creation_ofdbp2.PNG
