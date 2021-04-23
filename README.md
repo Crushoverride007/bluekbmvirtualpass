@@ -156,7 +156,7 @@ This is an example of how to list things you need to use the software and how to
 calendar as well as that of the person concerned.
 * The presence of a QR Code into visitor’s badge containing the
 URL of invitation.
-*Sending a email to employee and visitor containing the visit’s
+* Sending a email to employee and visitor containing the visit’s
 details and the QR code.
 
 _This optional quest isn't necessary but we managed to pull it through [Documentation](https://github.com/crushoverride007/bluekbmvirtualpass)_
