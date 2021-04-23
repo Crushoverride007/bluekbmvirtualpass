@@ -99,7 +99,9 @@ To setup the project in your computer:
 ### Prerequisites
 
 To start of the installation, you need first to run this command:
+
 * npm
+
   ```sh
   npm install dev
   ```
