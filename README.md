@@ -41,12 +41,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -55,18 +50,35 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+Your top management have decided to market a new solution called "Visitors Pass": This Web Application will allow the company executives to administer visits and visitors, 
+user rights, other amenities like visitor's history, generated Badges. It will also keep a track of the whereabouts of each visitor and host throughout the day
+and accordingly, record the details in a corporate file. This Visitor Management Software also manages to print an identity
+badge for a visitor to enter the premises, thus, reducing the receptionist's workload because Visitlog will manage to track every visitor's record, virtually. 
+It will also automatically create the list of the current number of visitors in the company for the emergency, if arises any. There are 3 categories of users in the app, 
+an administrator, an employee, and a receptionist.
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+* As an employee:
+When you want to visit an employee of the company, the latter must
+create a new visit in the application by specifying the following
+information: the nature of the visit, the date and time of arrival, time
+of end of visit, Company or individual, if company, enter the name of
+the company, the name, email, and phone number of the person
+concerned, the persons accompanied (Text area), a photo (optional,
+if not a default picture).
+After having validated all the information of the visit, the user can
+then print the badge in PDF format containing all the information
+related to the visit.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
+* As an administrator:
+in the home page of administrators, there is a dashboard which allows
+you to display some statistics on visits: Number of visits, number of
+visitors today, number of visitors the current month. The
+administrator can manage user accounts (CRUD), List of visits.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
+* As a receptionist
+The application shows all visits for the current day.
 
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+A list of commonly used resources that we used.
 
 ### Built With
 
@@ -188,33 +200,3 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
 =======
-# Project - Laravel
-
-- Project-Manager: * MESMOUKI Mouhcine
-- Scripting: * BENNANI Ayman - KECHMANE Mouad
-
-### Tools used:
-
-- Vuejs
-- Laravel 
-- Bootstrap
-- Sass
-- Mysql
-
-### To setup the project in your computer:
-
-- Setup 1 => clone this project into your system
-
-- Pre-Setup 2 => Create a new database and name it {virtualpassbluekbm} in {mysql workbench or phpmyadmin}
-- Setup 2 => Setup the environment file to suit your need 
-
-- Pre-Setup 3=> make sure that you've all these extensions installed in your computer {Php >= 7.2 || OpenSSL || PDO PHP || Mbstring || XML PHP || Ctype || BCMath || GD PHP ||
-- PHP Fileinfo || PHP Zip || Apache or Nginx }
-- Setup 3 => 
-** 1.1/ then run these commands => { $ composer update } /* to update and install the dependencies required to run laravel */
-** 1.2/ => { php artisan key:generate} /* to generate a key that goes directly into your .env folder
-** 1.3/ => { $ php artisan migrate } /* to push the tables into your database that you created */
-** 1.4/ => { $ php artisan db:Seed } /* since we've pre-existing data, you could also retrieve those data */
-** 1.5/ => { $ php artisan storage:link } /* to link the the path of files when uploading from /storage to (app/public)
-** 1.6/ => for the final pre-steps { $ php artisan serve } /* to start the server into your localhost */ 
->>>>>>> 5e8a2ca5330a7b0876e30669bca640790665bf79
