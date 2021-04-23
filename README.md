@@ -9,7 +9,7 @@
   <h3 align="center">Project Laravel</h3>
 
   <p align="center">
-    A back-End Project that managed to pull off a lot of resources to realise 
+    A back-End Project that we managed to pull off a lot of resources to realise 
     <br />
     <a href="https://github.com/crushoverride007/bluekbmvirtualpass"><strong>Explore the docs »</strong></a>
     <br />
