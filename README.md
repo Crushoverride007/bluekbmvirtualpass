@@ -5,7 +5,7 @@
     <img src="Readmeimages/site_logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Project Laravel</h3>
+  <h3 align="center">Virtual Pass - BlueKBM</h3>
 
   <p align="center">
     A back-End Project that we managed to pull off a lot of resources to realise 
