@@ -48,7 +48,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/crushoverride007/bluekbmvirtualpass)
+[![Dashboard Screenshot][product-screenshot]](https://github.com/crushoverride007/bluekbmvirtualpass)
 
 Your top management have decided to market a new solution called "Visitors Pass": This Web Application will allow the company executives to administer visits and visitors, 
 user rights, other amenities like visitor's history, generated Badges. It will also keep a track of the whereabouts of each visitor and host throughout the day
@@ -122,6 +122,8 @@ To start of the installation, you need first to run this command:
    ```
    composer update
    ```
+[![Composer update][composer-update]](https://github.com/crushoverride007/bluekbmvirtualpass)
+
 5. Enter your API in `.env`
    ```
    API_KEY = 'ENTER YOUR API FROM GOOGLE CONSOLE'
@@ -189,4 +191,5 @@ Project Link: [github.com/Crushoverride007/bluekbmvirtualpass](https://github.co
 [product-screenshot]: Readmeimages/Dashboard.PNG
 [qr-code]: Readmeimages/qrcode_generating.PNG
 [environments-setup]: Readmeimages/environments_setup.PNG
+[composer-update]: Readmeimages/composer_update.PNG
 
