@@ -152,7 +152,7 @@ To start of the installation, you need first to run this command:
    php artisan key:generate
    ```
 <p align="center">
-<img src="Readmeimages/key_generate-part1.PNG" alt="key_generate" width="100%" height="35">
+<img src="Readmeimages/key_generate-part1.PNG" alt="key_generate" width="500" height="35">
 </p>
 </br>
 
