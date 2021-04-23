@@ -110,7 +110,7 @@ To start of the installation, you need first to run this command:
 
 1/2. Setup the .env file, like shown below
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/crushoverride007/bluekbmvirtualpass)
+[![Environment Setup][environments-setup]](https://github.com/crushoverride007/bluekbmvirtualpass)
 
 
 
@@ -191,4 +191,6 @@ Project Link: [github.com/Crushoverride007/bluekbmvirtualpass](https://github.co
 
 
 [product-screenshot]: Readmeimages/screenshot.PNG
+[qr-code]: Readmeimages/qrcode_generating.PNG
+[environments-setup]: Readmeimages/environments_setup.PNG
 
