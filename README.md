@@ -165,6 +165,8 @@ _This optional quest isn't necessary but we managed to pull it through [Document
    composer require werneckbh/laravel-qr-code
    ```
 
+* To add to the spice we've added a google maps card, to feature in most important phases of our project
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
