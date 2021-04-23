@@ -116,9 +116,9 @@ To start of the installation, you need first to run this command:
 
 3. Setup the .env file, like shown below
 
-<p align="center">
+
 [![Environment Setup][environments-setup]](https://github.com/crushoverride007/bluekbmvirtualpass)
-</p>
+
 
 4. run composer update, to update and install if need be any dependencies that are required to run the project
    ```
