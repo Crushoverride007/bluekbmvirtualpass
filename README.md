@@ -112,7 +112,7 @@ This is an example of how to list things you need to use the software and how to
 1. Get your google maps API Key at [https://console.cloud.google.com/apis/](https://console.cloud.google.com/apis/)
 2. Clone the repo
    ```sh
-   git clone https://github.com/Crushoverride007/bluekbmvirtualpass.git
+   git clone `https://github.com/Crushoverride007/bluekbmvirtualpass.git`
    ```
 3. Install NPM packages
    ```sh
