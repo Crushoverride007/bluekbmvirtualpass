@@ -77,8 +77,6 @@ administrator can manage user accounts (CRUD), List of visits.
 * As a receptionist
 The application shows all visits for the current day.
 
-A list of commonly used resources that we used.
-
 ### Built With
 
 We listed down below our used technologies during the project build-up.
