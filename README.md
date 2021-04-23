@@ -209,6 +209,8 @@ _This optional quest isn't necessary but we managed to pull it through [Document
    composer require werneckbh/laravel-qr-code
    ```
 
+[![qr-code][qr-code]](https://github.com/crushoverride007/bluekbmvirtualpass)
+
 * To add to the spice we've added a google maps card, to feature in most important phases of our project
 
 
@@ -227,7 +229,6 @@ Project Link: [github.com/Crushoverride007/bluekbmvirtualpass](https://github.co
 
 
 [product-screenshot]: Readmeimages/Dashboard.PNG
-[qr-code]: Readmeimages/qrcode_generating.PNG
 [environments-setup]: Readmeimages/environments_setup.PNG
 [composer-update]: Readmeimages/composer_update.PNG
 [api_google-maps-p1]: Readmeimages/apiformaps.PNG
@@ -241,4 +242,5 @@ Project Link: [github.com/Crushoverride007/bluekbmvirtualpass](https://github.co
 [Storage-linking]: Readmeimages/php_artisan_storage_link.PNG
 [Artisan-serve]: Readmeimages/php_artisan_serve.png
 [Seeding]: Readmeimages/php_artisan_db_seed.PNG
+[qr-code]: Readmeimages/qrcode_generating.PNG
 
