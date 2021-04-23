@@ -121,15 +121,18 @@ To start of the installation, you need first to run this command:
 
 
 4. run composer update, to update and install if need be any dependencies that are required to run the project
+
    ```
    composer update
    ```
 [![Composer update][composer-update]](https://github.com/crushoverride007/bluekbmvirtualpass)
 
 5. Enter your API in `.env`
+
    ```
    API_KEY = 'ENTER YOUR API FROM GOOGLE CONSOLE'
    ```
+
 [![Api part 1][api_google-maps-p1]](https://github.com/crushoverride007/bluekbmvirtualpass)
 </br>
 
@@ -142,6 +145,7 @@ To start of the installation, you need first to run this command:
 
 
 6. Enter your Generated APP Key in `.env`
+
    ```
    php artisan key:generate
    ```
@@ -153,6 +157,7 @@ To start of the installation, you need first to run this command:
 <img src="Readmeimages/key_generate-part2.PNG" alt="key_part2" width="100%" height="50">
 
 7. Create a database in phpmyadmin and make sure to name it the same as shown in `.env`
+
    ```
    DB_DATABASE = virtualpassbluekbm
    ```
@@ -166,6 +171,7 @@ To start of the installation, you need first to run this command:
 [![Database part 2][Database_part2]](https://github.com/crushoverride007/bluekbmvirtualpass)
 
 8. Push the tables into your database
+
    ```
    php artisan migrate
    ```
@@ -173,6 +179,7 @@ To start of the installation, you need first to run this command:
 [![Artisan][Artisan-migrate]](https://github.com/crushoverride007/bluekbmvirtualpass)
 
 9. Since we've a pre-existing data, you could also retrieve those data
+
    ```
    php artisan db:seed
    ```
@@ -180,6 +187,7 @@ To start of the installation, you need first to run this command:
 [![Seeding][Seeding]](https://github.com/crushoverride007/bluekbmvirtualpass)
 
 10. Linking the path of files when uploading from `/storage` to `app/public`
+
    ```
    php artisan storage:link
    ```
@@ -187,6 +195,7 @@ To start of the installation, you need first to run this command:
 [![Storage-linking][Storage-linking]](https://github.com/crushoverride007/bluekbmvirtualpass)
 
 11. To start the serve into your localhost `port:8000`
+
    ```
    php artisan serve
    ```
