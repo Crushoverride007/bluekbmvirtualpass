@@ -167,20 +167,29 @@ To start of the installation, you need first to run this command:
    ```
    php artisan migrate
    ```
-[![Migration][Artisan-migrate]](https://github.com/crushoverride007/bluekbmvirtualpass)
+
+[![Artisan][Artisan-migrate]](https://github.com/crushoverride007/bluekbmvirtualpass)
 
 9. Since we've a pre-existing data, you could also retrieve those data
    ```
    php artisan db:seed
    ```
+
+[![Seeding][Seeding]](https://github.com/crushoverride007/bluekbmvirtualpass)
+
 10. Linking the path of files when uploading from `/storage` to `app/public`
    ```
    php artisan storage:link
    ```
+
+[![Storage-linking][Storage-linking]](https://github.com/crushoverride007/bluekbmvirtualpass)
+
 11. To start the serve into your localhost `port:8000`
    ```
    php artisan serve
    ```
+
+[![Artisan-serve][Artisan-serve]](https://github.com/crushoverride007/bluekbmvirtualpass)
 
 
 
@@ -229,4 +238,7 @@ Project Link: [github.com/Crushoverride007/bluekbmvirtualpass](https://github.co
 [Database_part1]: Readmeimages/dbpart1.png
 [Database_part2]: Readmeimages/dbpart2.png
 [Artisan-migrate]: Readmeimages/php_artisan_migrate.PNG
+[Storage-linking]: Readmeimages/php_artisan_storage_link.PNG
+[Artisan-serve]: Readmeimages/php_artisan_migrate.PNG
+[Seeding]: Readmeimages/php_artisan_db_seede.PNG
 
