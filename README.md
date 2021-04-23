@@ -135,7 +135,7 @@ To start of the installation, you need first to run this command:
 
 </br>
 
-<img src="Readmeimages/api_key-in-env.PNG" alt="api_lastpart" width="400" height="100">
+<img src="Readmeimages/api_key-in-env.PNG" alt="api_lastpart" width="100%" height="75">
 
 
 
