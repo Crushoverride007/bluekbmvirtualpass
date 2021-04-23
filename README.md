@@ -8,7 +8,7 @@
   <h3 align="center">Virtual Pass - BlueKBM</h3>
 
   <p align="center">
-    A Project that is based on laravel (**a php-framework**), the project is one of the very important aspects of security management. It helps in capturing the details about the visitors in a systematic manner and maintains a repository of the same. It is also called a management for the visitors and it is a process of allowing visitors to enter the premises (company) based on appointment, creation of identification badges and managing the Security staff deployment for effective control over the security.
+    A Project that is based on laravel (a php-framework), the project is one of the very important aspects of security management. It helps in capturing the details about the visitors in a systematic manner and maintains a repository of the same. It is also called a management for the visitors and it is a process of allowing visitors to enter the premises (company) based on appointment, creation of identification badges and managing the Security staff deployment for effective control over the security.
     <br />
     <a href="https://github.com/crushoverride007/bluekbmvirtualpass"><strong>Explore the docs »</strong></a>
     <br />
@@ -116,7 +116,9 @@ To start of the installation, you need first to run this command:
 
 3. Setup the .env file, like shown below
 
+<p align="center">
 [![Environment Setup][environments-setup]](https://github.com/crushoverride007/bluekbmvirtualpass)
+</p>
 
 4. run composer update, to update and install if need be any dependencies that are required to run the project
    ```
