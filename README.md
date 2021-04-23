@@ -106,7 +106,7 @@ To start of the installation, you need first to run this command:
 
 ### Installation
 
-1/1. Get your google maps API Key at [https://console.cloud.google.com/apis/](https://console.cloud.google.com/apis/)
+1. Get your google maps API Key at [https://console.cloud.google.com/apis/](https://console.cloud.google.com/apis/)
 
 
 2. Clone the repo
