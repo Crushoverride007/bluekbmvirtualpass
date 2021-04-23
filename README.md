@@ -224,5 +224,5 @@ Project Link: [github.com/Crushoverride007/bluekbmvirtualpass](https://github.co
 [api_google-maps-p3]: Readmeimages/api_key-in-env.PNG
 [key_generatep1]: Readmeimages/key_generate-part1.PNG
 [key_generatep2]: Readmeimages/key_generate-part2.PNG
-[creation_ofdbp1]: Readmeimages/creation_ofdbp1.PNG
-[creation_ofdbp2]: Readmeimages/creation_ofdbp2.PNG
+[creation_ofdbp1]: Readmeimages/dbpart1.PNG
+[creation_ofdbp2]: Readmeimages/dbpart2.PNG
