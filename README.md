@@ -135,7 +135,7 @@ To start of the installation, you need first to run this command:
 
 </br>
 
-<img src="Readmeimages/api_key-in-env.PNG" alt="api_lastpart" width="100%" height="75">
+<img src="Readmeimages/api_key-in-env.PNG" alt="api_lastpart" width="100%" height="50">
 
 
 
@@ -144,11 +144,11 @@ To start of the installation, you need first to run this command:
    php artisan key:generate
    ```
 
-<img src="Readmeimages/key_generate-part1.PNG" alt="key_part1" width="100%" height="75">
+<img src="Readmeimages/key_generate-part1.PNG" alt="key_part1" width="100%" height="50">
 
 </br>
 
-<img src="Readmeimages/key_generate-part2.PNG" alt="key_part2" width="100%" height="75">
+<img src="Readmeimages/key_generate-part2.PNG" alt="key_part2" width="100%" height="50">
 
 7. Create a database in phpmyadmin and make sure to name it the same as shown in `.env`
    ```
@@ -156,6 +156,8 @@ To start of the installation, you need first to run this command:
    ```
 
 [![Database part 1][creation_ofdbp1]](https://github.com/crushoverride007/bluekbmvirtualpass)
+
+
 
 </br>
 
