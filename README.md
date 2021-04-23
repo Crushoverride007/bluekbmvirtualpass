@@ -128,6 +128,12 @@ To start of the installation, you need first to run this command:
    ```
    API_KEY = 'ENTER YOUR API FROM GOOGLE CONSOLE'
    ```
+[![Api part 1][api_google-maps-p1]](https://github.com/crushoverride007/bluekbmvirtualpass)
+[![Api part 2][api_google-maps-p2]](https://github.com/crushoverride007/bluekbmvirtualpass)
+[![Api part 3][api_google-maps-p3]](https://github.com/crushoverride007/bluekbmvirtualpass)
+
+
+
 6. Enter your Generated APP Key in `.env`
    ```
    php artisan key:generate
@@ -192,4 +198,7 @@ Project Link: [github.com/Crushoverride007/bluekbmvirtualpass](https://github.co
 [qr-code]: Readmeimages/qrcode_generating.PNG
 [environments-setup]: Readmeimages/environments_setup.PNG
 [composer-update]: Readmeimages/composer_update.PNG
+[api_google-maps-p1]: Readmeimages/apiformaps.PNG
+[api_google-maps-p2]: Readmeimages/api_google_maps_generate.PNG
+[api_google-maps-p3]: Readmeimages/api_key-in-env.PNG
 
