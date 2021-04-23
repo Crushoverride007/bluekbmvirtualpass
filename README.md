@@ -204,7 +204,9 @@ details and the QR code.
 
 _This optional quest isn't necessary but we managed to pull it through [Documentation](https://github.com/crushoverride007/bluekbmvirtualpass)_
 
-2. install the library qrcode
+
+** install the library qrcode **
+
    ```sh
    composer require werneckbh/laravel-qr-code
    ```
