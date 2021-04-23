@@ -190,7 +190,7 @@ Project Link: [github.com/Crushoverride007/bluekbmvirtualpass](https://github.co
 * [Our Github Organization](https://github.com/Devame-corporation)
 
 
-[product-screenshot]: Readmeimages/screenshot.PNG
+[product-screenshot]: Readmeimages/Dashboard.PNG
 [qr-code]: Readmeimages/qrcode_generating.PNG
 [environments-setup]: Readmeimages/environments_setup.PNG
 
