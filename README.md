@@ -8,7 +8,7 @@
   <h3 align="center">Virtual Pass - BlueKBM</h3>
 
   <p align="center">
-    A back-End Project that we managed to pull off a lot of resources to realise 
+    A Project that is based on laravel (a php-framework), the project is one of the very important aspects of security management. It helps in capturing the details about the visitors in a systematic manner and maintains a repository of the same. It is also called a management for the visitors and it is a process of allowing visitors to enter the premises (company) based on appointment, creation of identification badges and managing the Security staff deployment for effective control over the security.
     <br />
     <a href="https://github.com/crushoverride007/bluekbmvirtualpass"><strong>Explore the docs »</strong></a>
     <br />
@@ -53,7 +53,7 @@
 Your top management have decided to market a new solution called "Visitors Pass": This Web Application will allow the company executives to administer visits and visitors, 
 user rights, other amenities like visitor's history, generated Badges. It will also keep a track of the whereabouts of each visitor and host throughout the day
 and accordingly, record the details in a corporate file. This Visitor Management Software also manages to print an identity
-badge for a visitor to enter the premises, thus, reducing the receptionist's workload because Visitlog will manage to track every visitor's record, virtually. 
+badge for a visitor to enter the premises, thus, reducing the receptionist's workload because Visit-Log will manage to track every visitor's record, virtually. 
 It will also automatically create the list of the current number of visitors in the company for the emergency, if arises any. There are 3 categories of users in the app, 
 an administrator, an employee, and a receptionist.
 
