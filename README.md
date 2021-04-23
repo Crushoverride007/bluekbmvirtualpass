@@ -90,14 +90,14 @@ This section should list any major frameworks that you built your project using.
 * [JavaScript](https://www.javascript.com/)
 * [Laravel](https://laravel.com)
 * [Php](https://www.php.net/)
+* [Sass](https://sass-lang.com/)
 
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+To setup the project in your computer:
 
 ### Prerequisites
 
@@ -109,19 +109,50 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Get your google maps API Key at [https://console.cloud.google.com/apis/](https://console.cloud.google.com/apis/)
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/Crushoverride007/bluekbmvirtualpass.git
    ```
 3. Install NPM packages
    ```sh
-   npm install
+   npm install dev
    ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
+4. run composer update to update and install if need be any dependencies that are required to run the project
    ```
+   composer update
+   ```
+5. Enter your API in `.env`
+   ```
+   API_KEY = 'ENTER YOUR API FROM GOOGLE CONSOLE'
+   ```
+6. Enter your Generated APP Key in `.env`
+   ```
+   php artisan key:generate
+   ```
+7. Create a database in phpmyadmin and make sure to name it the same as shown in `.env`
+   ```
+   DB_DATABASE = virtualpassbluekbm
+   ```
+8. Push the tables into your database
+   ```
+   php artisan migrate
+   ```
+9. Since we've a pre-existing data, you could also retrieve those data
+   ```
+   php artisan db:seed
+   ```
+10. Linking the path of files when uploading from `/storage` to `app/public`
+   ```
+   php artisan storage:link
+   ```
+11. To start the serve into your localhost `port:8000`
+   ```
+   php artisan serve
+   ```
+
+
+
 
 
 
