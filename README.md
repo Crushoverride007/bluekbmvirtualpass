@@ -1,5 +1,4 @@
 
-<!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="Readmeimages/site_logo.png">
@@ -16,15 +15,13 @@
     <br />
     <a href="https://github.com/crushoverride007/bluekbmvirtualpass">View Demo</a>
     ·
-    <a href="https://github.com/crushoverride007/bluekbmvirtualpass">Report Bug</a>
+    <a href="https://github.com/crushoverride007/bluekbmvirtualpass">Contact</a>
     ·
-    <a href="https://github.com/crushoverride007/bluekbmvirtualpass">Request Feature</a>
+    <a href="https://github.com/crushoverride007/bluekbmvirtualpass">About Project</a>
   </p>
 </p>
 
 
-
-<!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
@@ -37,7 +34,7 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#prerequisites">Pre-requisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -47,7 +44,6 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://github.com/crushoverride007/bluekbmvirtualpass)
@@ -93,8 +89,6 @@ This section should list any major frameworks that you built your project using.
 * [Sass](https://sass-lang.com/)
 
 
-
-<!-- GETTING STARTED -->
 ## Getting Started
 
 To setup the project in your computer:
@@ -154,17 +148,12 @@ This is an example of how to list things you need to use the software and how to
 
 
 
-
-
-<!-- USAGE EXAMPLES -->
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-
-<!-- CONTRIBUTING -->
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -176,7 +165,6 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 
 
-<!-- CONTACT -->
 ## Contact
 
 Mouhcine MESMOUKI - [@m_mesmouki](https://twitter.com/m_mesmouki) - mouhcine.mesmouki7@gmail.com
@@ -184,8 +172,6 @@ Mouhcine MESMOUKI - [@m_mesmouki](https://twitter.com/m_mesmouki) - mouhcine.mes
 Project Link: [github.com/Crushoverride007/bluekbmvirtualpass](https://github.com/Crushoverride007/bluekbmvirtualpass)
 
 
-
-<!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Img Shields](https://shields.io)
