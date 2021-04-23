@@ -168,20 +168,12 @@ _This optional quest isn't necessary but we managed to pull it through [Document
 
 * To add to the spice we've added a google maps card, to feature in most important phases of our project
 
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 
 ## Contact
 
 Mouhcine MESMOUKI - [@m_mesmouki](https://twitter.com/m_mesmouki) - mouhcine.mesmouki7@gmail.com
+Ayman BENNANI - [@ayman_bennani](https://www.instagram.com/aymanbennani/) - ayman.bennani@ynov.com
+Mouad KECHAMNE - [@mouadkechmane](https://www.instagram.com/mouadkechmane/) mouad.kechmane@ynov.com
 
 Project Link: [github.com/Crushoverride007/bluekbmvirtualpass](https://github.com/Crushoverride007/bluekbmvirtualpass)
 
