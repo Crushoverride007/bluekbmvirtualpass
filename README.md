@@ -81,7 +81,9 @@ A list of commonly used resources that we used.
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+We listed down below our used technologies during the project build-up.
+
+* [VueJS](https://vuejs.org/)
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
 * [JavaScript](https://www.javascript.com/)
@@ -214,5 +216,5 @@ Project Link: [github.com/Crushoverride007/bluekbmvirtualpass](https://github.co
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: Readmeimages/screenshot.PNG
 
-lasttest
+
 =======
