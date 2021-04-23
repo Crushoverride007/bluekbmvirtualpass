@@ -98,15 +98,22 @@ To setup the project in your computer:
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+To start of the installation, you need first to run this command:
 * npm
   ```sh
-  npm install npm@latest -g
+  npm install dev
   ```
 
 ### Installation
 
-1. Get your google maps API Key at [https://console.cloud.google.com/apis/](https://console.cloud.google.com/apis/)
+1/1. Get your google maps API Key at [https://console.cloud.google.com/apis/](https://console.cloud.google.com/apis/)
+
+1/2. Setup the .env file, like shown below
+
+[![Product Name Screen Shot][product-screenshot]](https://github.com/crushoverride007/bluekbmvirtualpass)
+
+
+
 2. Clone the repo
    ```sh
    git clone `https://github.com/Crushoverride007/bluekbmvirtualpass.git`
@@ -184,3 +191,6 @@ Project Link: [github.com/Crushoverride007/bluekbmvirtualpass](https://github.co
 
 
 [product-screenshot]: Readmeimages/screenshot.PNG
+[qr-code]: Readmeimages/qrcode_generating.PNG
+[environments-setup]: Readmeimages/environments_setup.PNG
+
