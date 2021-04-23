@@ -149,7 +149,6 @@ This is an example of how to list things you need to use the software and how to
 
 
 
-
 ## Optional
 
 * You can add the option to generate an appointment in your
@@ -160,6 +159,11 @@ URL of invitation.
 details and the QR code.
 
 _This optional quest isn't necessary but we managed to pull it through [Documentation](https://github.com/crushoverride007/bluekbmvirtualpass)_
+
+2. install the library qrcode
+   ```sh
+   composer require werneckbh/laravel-qr-code
+   ```
 
 ## Contributing
 
