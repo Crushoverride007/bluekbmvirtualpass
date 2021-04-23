@@ -152,7 +152,7 @@ To start of the installation, you need first to run this command:
    php artisan key:generate
    ```
 
-<img src="Readmeimages/key_generate-part1.PNG" alt="key_part1" width="100%" height="35">
+[![Key generate part1][key_generatep1]](https://github.com/crushoverride007/bluekbmvirtualpass)
 
 </br>
 
