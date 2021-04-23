@@ -155,13 +155,13 @@ To start of the installation, you need first to run this command:
    DB_DATABASE = virtualpassbluekbm
    ```
 
-[![Database part 1][creation_ofdbp1]](https://github.com/crushoverride007/bluekbmvirtualpass)
+[![Database part 1][Database_part1]](https://github.com/crushoverride007/bluekbmvirtualpass)
 
 
 
 </br>
 
-[![Database part 2][creation_ofdbp2]](https://github.com/crushoverride007/bluekbmvirtualpass)
+[![Database part 2][Database_part2]](https://github.com/crushoverride007/bluekbmvirtualpass)
 
 8. Push the tables into your database
    ```
@@ -224,5 +224,5 @@ Project Link: [github.com/Crushoverride007/bluekbmvirtualpass](https://github.co
 [api_google-maps-p3]: Readmeimages/api_key-in-env.PNG
 [key_generatep1]: Readmeimages/key_generate-part1.PNG
 [key_generatep2]: Readmeimages/key_generate-part2.PNG
-[creation_ofdbp1]: Readmeimages/dbpart1.PNG
-[creation_ofdbp2]: Readmeimages/dbpart2.PNG
+[Database_part1]: Readmeimages/dbpart1.PNG
+[Database_part2]: Readmeimages/dbpart2.PNG
