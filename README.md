@@ -38,6 +38,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
+    <li><a href="#optional">Optional</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -87,6 +88,7 @@ This section should list any major frameworks that you built your project using.
 * [Laravel](https://laravel.com)
 * [Php](https://www.php.net/)
 * [Sass](https://sass-lang.com/)
+* [MySQL](https://www.mysql.com/)
 
 
 ## Getting Started
@@ -148,11 +150,16 @@ This is an example of how to list things you need to use the software and how to
 
 
 
-## Usage
+## Optional
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+* You can add the option to generate an appointment in your
+calendar as well as that of the person concerned.
+* The presence of a QR Code into visitor’s badge containing the
+URL of invitation.
+*Sending a email to employee and visitor containing the visit’s
+details and the QR code.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_This optional quest isn't necessary but we managed to pull it through [Documentation](https://github.com/crushoverride007/bluekbmvirtualpass)_
 
 ## Contributing
 
