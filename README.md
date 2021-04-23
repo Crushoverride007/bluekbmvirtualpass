@@ -108,20 +108,16 @@ To start of the installation, you need first to run this command:
 
 1/1. Get your google maps API Key at [https://console.cloud.google.com/apis/](https://console.cloud.google.com/apis/)
 
-1/2. Setup the .env file, like shown below
-
-[![Environment Setup][environments-setup]](https://github.com/crushoverride007/bluekbmvirtualpass)
-
-
 
 2. Clone the repo
    ```sh
    git clone `https://github.com/Crushoverride007/bluekbmvirtualpass.git`
    ```
-3. Install NPM packages
-   ```sh
-   npm install dev
-   ```
+
+3. Setup the .env file, like shown below
+
+[![Environment Setup][environments-setup]](https://github.com/crushoverride007/bluekbmvirtualpass)
+
 4. run composer update, to update and install if need be any dependencies that are required to run the project
    ```
    composer update
