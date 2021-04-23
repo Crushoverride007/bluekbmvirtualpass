@@ -50,6 +50,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+[![Product Name Screen Shot][product-screenshot]](https://github.com/crushoverride007/bluekbmvirtualpass)
+
 Your top management have decided to market a new solution called "Visitors Pass": This Web Application will allow the company executives to administer visits and visitors, 
 user rights, other amenities like visitor's history, generated Badges. It will also keep a track of the whereabouts of each visitor and host throughout the day
 and accordingly, record the details in a corporate file. This Visitor Management Software also manages to print an identity
@@ -85,7 +87,9 @@ A list of commonly used resources that we used.
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
+* [JavaScript](https://www.javascript.com/)
 * [Laravel](https://laravel.com)
+* [Php](https://www.php.net/)
 
 
 
