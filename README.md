@@ -239,6 +239,6 @@ Project Link: [github.com/Crushoverride007/bluekbmvirtualpass](https://github.co
 [Database_part2]: Readmeimages/dbpart2.png
 [Artisan-migrate]: Readmeimages/php_artisan_migrate.PNG
 [Storage-linking]: Readmeimages/php_artisan_storage_link.PNG
-[Artisan-serve]: Readmeimages/php_artisan_migrate.PNG
-[Seeding]: Readmeimages/php_artisan_serve.png
+[Artisan-serve]: Readmeimages/php_artisan_serve.png
+[Seeding]: Readmeimages/php_artisan_db_seed.PNG
 
