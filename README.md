@@ -135,10 +135,10 @@ To start of the installation, you need first to run this command:
    API_KEY = 'ENTER YOUR API FROM GOOGLE CONSOLE'
    ```
 
-[![Api part 1][api_google-maps-p1]](https://github.com/crushoverride007/bluekbmvirtualpass)
+[![Api part 1][api_google-maps-p2]](https://github.com/crushoverride007/bluekbmvirtualpass)
 </br>
 
-[![Api part 2][api_google-maps-p2]](https://github.com/crushoverride007/bluekbmvirtualpass)
+[![Api part 2][api_google-maps-p1]](https://github.com/crushoverride007/bluekbmvirtualpass)
 
 </br>
 
